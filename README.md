@@ -1,4 +1,4 @@
-# Fitness Tracker
+# TechBlog
 [Link Here](https://yamcham0.github.io/TechBlog/)
 ## Description
 

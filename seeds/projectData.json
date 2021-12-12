@@ -1,17 +1,14 @@
 [
   {
     "name": "Squirrelyzer",
-    "description": "A small red and white invisible device that can be used to help you mantain squirrels at bay while you work.",
-    "needed_funding": 5000
+    "description": "A small red and white invisible device that can be used to help you mantain squirrels at bay while you work."
   },
   {
     "name": "The Ultimate Tech Quiz",
-    "description": "The questions asked here will not make sense and it will make you question your own asnwers.",
-    "needed_funding": 10000
+    "description": "The questions asked here will not make sense and it will make you question your own asnwers."
   },
   {
     "name": "Its Dangerous to go alone.",
-    "description": "Here take this.",
-    "needed_funding": 800
+    "description": "Here take this."
   }
 ]

@@ -1,17 +1,14 @@
 [
-    {
-    "name": "Squirrelyzer",
-    "description": "A small red and white invisible device that can be used to help you mantain squirrels at bay while you work.",
-    "id": "1"
-    },
-    {
+  {
+    "name": "Music Near Me",
+    "description": "A mobile app that will send you notifications whenever a concert is playing in your area."
+  },
+  {
     "name": "The Ultimate Tech Quiz",
-    "description": "The questions asked here will not make sense and it will make you question your own asnwers",
-    "id": "3"
-    },
-    {
-    "name": "It's Dangerous to go alone!",
-    "description": "Here take this!",
-    "id": "2"
-    }
+    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!"
+  },
+  {
+    "name": "Roll 'Em Up",
+    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes."
+  }
 ]

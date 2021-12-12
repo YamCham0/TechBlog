@@ -1,0 +1,17 @@
+[
+    {
+    "name": "Squirrelyzer",
+    "description": "A small red and white invisible device that can be used to help you mantain squirrels at bay while you work.",
+    "id": "1"
+    },
+    {
+    "name": "The Ultimate Tech Quiz",
+    "description": "The questions asked here will not make sense and it will make you question your own asnwers",
+    "id": "3"
+    },
+    {
+    "name": "It's Dangerous to go alone!",
+    "description": "Here take this!",
+    "id": "2"
+    }
+]

@@ -1,5 +1,5 @@
 # TechBlog
-[Link for App](https://techblag.herokuapp.com/)
+[Link for App](https://techblag.herokuapp.com/)  
 [Link for Repo](https://github.com/YamCham0/TechBlog)
 ## Description
 Able to login and post new content into the database.
